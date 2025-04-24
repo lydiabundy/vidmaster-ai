@@ -1,0 +1,7 @@
+{
+    "python.analysis.extraPaths": [
+        "./main.py/ ",
+        "./main.py/ ",
+        "./main.py/ "
+    ]
+}
